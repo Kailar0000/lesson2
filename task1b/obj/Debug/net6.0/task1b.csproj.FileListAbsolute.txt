@@ -1,0 +1,15 @@
+F:\Учеба\lesson2\task1b\obj\Debug\net6.0\task1b.csproj.AssemblyReference.cache
+F:\Учеба\lesson2\task1b\obj\Debug\net6.0\task1b.GeneratedMSBuildEditorConfig.editorconfig
+F:\Учеба\lesson2\task1b\obj\Debug\net6.0\task1b.AssemblyInfoInputs.cache
+F:\Учеба\lesson2\task1b\obj\Debug\net6.0\task1b.AssemblyInfo.cs
+F:\Учеба\lesson2\task1b\obj\Debug\net6.0\task1b.csproj.CoreCompileInputs.cache
+F:\Учеба\lesson2\task1b\bin\Debug\net6.0\task1b.exe
+F:\Учеба\lesson2\task1b\bin\Debug\net6.0\task1b.deps.json
+F:\Учеба\lesson2\task1b\bin\Debug\net6.0\task1b.runtimeconfig.json
+F:\Учеба\lesson2\task1b\bin\Debug\net6.0\task1b.dll
+F:\Учеба\lesson2\task1b\bin\Debug\net6.0\task1b.pdb
+F:\Учеба\lesson2\task1b\obj\Debug\net6.0\task1b.dll
+F:\Учеба\lesson2\task1b\obj\Debug\net6.0\refint\task1b.dll
+F:\Учеба\lesson2\task1b\obj\Debug\net6.0\task1b.pdb
+F:\Учеба\lesson2\task1b\obj\Debug\net6.0\task1b.genruntimeconfig.cache
+F:\Учеба\lesson2\task1b\obj\Debug\net6.0\ref\task1b.dll
